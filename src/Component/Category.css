@@ -1,0 +1,25 @@
+.container-cat {
+    max-width: 70%;
+    max-height: 550px;
+    display: block;
+    margin: auto;
+    background-color: rgb(236, 191, 65);
+    border-radius:15px;
+    padding-bottom: 30px;
+    margin-top: 50px;       
+    font-size: 20px;
+    text-align: center;
+}
+
+.button-Go {
+    padding: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    width: 60%;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #9b57e9;
+    border-radius: 20px;
+}

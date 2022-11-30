@@ -1,0 +1,32 @@
+.container-detail {
+    max-width: 80%;
+    max-height: 100%;
+    margin: auto;
+    color: #fff;
+    background-color: rgb(236, 191, 65);
+    border-radius: 15px;   
+    font-size: 20px;
+    text-align: center;
+}
+
+h3 {
+    max-width: 100%;
+    max-height: 80%;
+    font-size: 16px;
+    text-align: justify;
+    font-family: Calibri;
+    color: #fff;
+    word-spacing: 1.5px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.button-Go {
+    margin: auto;
+    width: 35%;
+    height: 40px;
+    border-width: 5px;
+    border-radius: 5px;
+    border-style: solid;
+    color: #fff;
+}

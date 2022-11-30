@@ -1,0 +1,105 @@
+p {
+    padding: 0;
+    margin: 0;
+  }
+  
+h2{
+  color: #1f1f1f;
+  font-size: 12px;
+  text-align: center;
+  }
+
+  h4{
+    color: #1f1f1f;
+    font-size: 12px;
+    margin-bottom: 1px;
+    text-align: center;
+    }
+  
+  .card {
+    width: 200px;
+    height: 350px;
+    display: block;
+    float: left;
+    align-content: center;
+    font-family: sans-serif;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    margin: 20px 30px 10px 20px;
+    padding: 2px 2px 1px 5px;
+  }
+
+  .nama-gambar{
+    font-family: 'Lucida Sans';
+    font-size: 14px;
+    color:#070824;
+    margin-top: 1px;
+    margin-bottom: 1px;
+  }
+
+  img{
+    margin-top: 10px;
+    border-radius: 50%;
+    width: 200px;
+    padding: auto;
+  }
+
+  .tag {
+    height: 30px;
+    font-size: 12px;
+    color: #1f1f1f;
+    width: 80%;
+    border-bottom: 2px solid #2d2d2e;
+    margin-bottom: 5px;
+  }
+
+  .ket { 
+    margin-left: 0px;
+    width: 100%;
+    padding: 1px;
+    display: flex;
+    color: #1f1f1f;
+    align-content: left;
+    margin-bottom: 10px;
+  }
+
+  .ket1 {
+    max-width: 100%;
+    height: 20px;
+    font-family: sans-serif;
+    border-bottom: 2px solid #2d2d2e;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-right: 5px;
+  }
+
+  .ket2 {
+    max-width: 100%;
+    height: 20px;
+    font-family: sans-serif;
+    border-radius: 5px;
+    border-bottom: 2px solid #2d2d2e;
+    display: flex;
+    font-size: 12px;
+  }
+
+  .keterangan {
+    font-size: 12px;
+    color: #1f1f1f;
+  }
+
+  .type {
+    height: 20px;
+    font-size: 12px;
+    color: #1f1f1f;
+    border-radius: 5px;
+    border-bottom: 2px solid #9b57e9;
+  }
+
+  .search-box {
+    display: block;
+    flex-wrap: wrap;
+    max-width: 50%;
+    max-height: 80%;
+    background-color:  rgb(236, 191, 65);
+  }
